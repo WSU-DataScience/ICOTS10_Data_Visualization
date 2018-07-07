@@ -16,7 +16,6 @@ Here is the schedule for the workshop.
 * Hour 3 - Introduction to Tableau
 * Hour 4 - Labs/Activities
 
-[![Binder](https://beta.mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WSU-DataScience/ICOTS10_Data_Visualization/master?urlpath=%2Flab)
 
 ### Feedback
 
